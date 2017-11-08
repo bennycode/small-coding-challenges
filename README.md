@@ -1,1 +1,2 @@
 - check if blank line javascript regex
+- How to remove all line breaks from a string?
